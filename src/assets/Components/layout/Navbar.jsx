@@ -58,7 +58,7 @@ const Navbar = () => {
           ) : (
             <Link 
               to="/login"
-              className="bg-gray-900 text-white px-6 py-2.5 rounded-xl text-xs font-bold uppercase tracking-widest hover:bg-blue-600 transition-all shadow-lg shadow-gray-200"
+              className="bg-blue-600 text-white px-6 py-2.5 rounded-xl text-xs font-bold uppercase tracking-widest hover:bg-blue-600 transition-all shadow-lg shadow-gray-200"
             >
               Entrar
             </Link>
